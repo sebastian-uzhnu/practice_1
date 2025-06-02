@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "36XfHOJ6q18=",
+  "success": true,
+  "projectFilePath": "/Users/college/Downloads/Praktika1/Praktika1/Praktika1.csproj",
+  "expectedPackageFiles": [
+    "/Users/college/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/college/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/college/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

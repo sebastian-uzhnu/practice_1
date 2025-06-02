@@ -1,0 +1,2 @@
+C:\Users\kizlj\source\repos\Praktika1\Praktika1\bin\Release\net8.0\publish\win-x64\Praktika1.pdb
+C:\Users\kizlj\source\repos\Praktika1\Praktika1\bin\Release\net8.0\publish\win-x64\Praktika1.exe

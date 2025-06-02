@@ -1,0 +1,14 @@
+C:\Users\kizlj\source\repos\Praktika1\Praktika1\bin\Release\net8.0\win-x64\Praktika1.exe
+C:\Users\kizlj\source\repos\Praktika1\Praktika1\bin\Release\net8.0\win-x64\Praktika1.deps.json
+C:\Users\kizlj\source\repos\Praktika1\Praktika1\bin\Release\net8.0\win-x64\Praktika1.runtimeconfig.json
+C:\Users\kizlj\source\repos\Praktika1\Praktika1\bin\Release\net8.0\win-x64\Praktika1.dll
+C:\Users\kizlj\source\repos\Praktika1\Praktika1\bin\Release\net8.0\win-x64\Praktika1.pdb
+C:\Users\kizlj\source\repos\Praktika1\Praktika1\obj\Release\net8.0\win-x64\Praktika1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kizlj\source\repos\Praktika1\Praktika1\obj\Release\net8.0\win-x64\Praktika1.AssemblyInfoInputs.cache
+C:\Users\kizlj\source\repos\Praktika1\Praktika1\obj\Release\net8.0\win-x64\Praktika1.AssemblyInfo.cs
+C:\Users\kizlj\source\repos\Praktika1\Praktika1\obj\Release\net8.0\win-x64\Praktika1.csproj.CoreCompileInputs.cache
+C:\Users\kizlj\source\repos\Praktika1\Praktika1\obj\Release\net8.0\win-x64\Praktika1.dll
+C:\Users\kizlj\source\repos\Praktika1\Praktika1\obj\Release\net8.0\win-x64\refint\Praktika1.dll
+C:\Users\kizlj\source\repos\Praktika1\Praktika1\obj\Release\net8.0\win-x64\Praktika1.pdb
+C:\Users\kizlj\source\repos\Praktika1\Praktika1\obj\Release\net8.0\win-x64\Praktika1.genruntimeconfig.cache
+C:\Users\kizlj\source\repos\Praktika1\Praktika1\obj\Release\net8.0\win-x64\ref\Praktika1.dll
