@@ -7,6 +7,7 @@ namespace Praktika1
         {
             Console.OutputEncoding = Encoding.UTF8;
             MainMenu.Show();
+            // 
         }
     }
 }

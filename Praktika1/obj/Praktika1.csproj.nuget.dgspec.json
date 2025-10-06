@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/college/Downloads/Praktika1/Praktika1/Praktika1.csproj": {}
+    "/Users/college/Downloads/practice_1/Praktika1/Praktika1.csproj": {}
   },
   "projects": {
-    "/Users/college/Downloads/Praktika1/Praktika1/Praktika1.csproj": {
+    "/Users/college/Downloads/practice_1/Praktika1/Praktika1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/college/Downloads/Praktika1/Praktika1/Praktika1.csproj",
+        "projectUniqueName": "/Users/college/Downloads/practice_1/Praktika1/Praktika1.csproj",
         "projectName": "Praktika1",
-        "projectPath": "/Users/college/Downloads/Praktika1/Praktika1/Praktika1.csproj",
+        "projectPath": "/Users/college/Downloads/practice_1/Praktika1/Praktika1.csproj",
         "packagesPath": "/Users/college/.nuget/packages/",
-        "outputPath": "/Users/college/Downloads/Praktika1/Praktika1/obj/",
+        "outputPath": "/Users/college/Downloads/practice_1/Praktika1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/college/.nuget/NuGet/NuGet.Config"
