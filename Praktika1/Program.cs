@@ -11,6 +11,18 @@ namespace Praktika1
             //
             //
             //
+            //
+        }
+        
+        static void Main2()
+        {
+            Console.OutputEncoding = Encoding.UTF8;
+            MainMenu.Show();
+            // 
+            //
+            //
+            //
+            //
         }
     }
 }
